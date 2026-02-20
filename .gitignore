@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Runtime/server data
+logs/
+world/
+world_backup_*/
+crash-reports/
+
+# Local server binaries/libs
+server.jar
+libraries/
+versions/
+
+# Local state/config generated at runtime
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
+eula.txt
+server.log
+
+# OS/editor
+.DS_Store
+.claude/
+server.properties
