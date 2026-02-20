@@ -3,12 +3,10 @@ node_modules/
 
 # Runtime/server data
 logs/
-world/
 world_backup_*/
 crash-reports/
 
 # Local server binaries/libs
-server.jar
 libraries/
 versions/
 
